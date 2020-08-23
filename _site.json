@@ -1,0 +1,11 @@
+{
+  "title": "Wei in the real world",
+  "url": "https://that.world/~wei",
+  "baseUrl": "/~wei/",
+  "author": "Wei Tang",
+  "email": "wei@that.world",
+  "sitemap": {
+    "enable": true,
+    "depth": 1
+  }
+}

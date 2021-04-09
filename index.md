@@ -20,7 +20,7 @@ Besides, if you want to know more about me:
   Technologies**.
 - As the Polkadot network is launching, I **intend to validate** on
   the network. You can read more about [the validator
-  setup]({% link validate.md %}).
+  setup](polkadot/index.md).
 - Send me [an email](mailto:wei@that.world) and follow me on
   [Mastodon](https://social.that.world/@wei).
 - For most of my time, I develop softwares. So check out some of
